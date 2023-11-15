@@ -11,6 +11,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JacktheRipper0911&show_icons=true&theme=transparent#gh-dark-mode-only)
+
 <!---
 JacktheRipper0911/JacktheRipper0911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
