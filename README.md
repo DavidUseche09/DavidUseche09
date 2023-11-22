@@ -15,8 +15,8 @@ My aim is to constantly grow as a developer, contribute significantly to innovat
 - 💞️ I’m looking to collaborate on any companie or current proyect, just get in touch with me and I'll be willing to help you and to learn in the process :)
 
 ## How to reach me? 📫: 
-- Well, I let you here my [email](daviduseche09@gmail.com)
-- You can find me on [LinkedIn](www.linkedin.com/in/david-useche-rosas-843044262) too. Thanks for visiting my profile! Feel free to say hello! 🚀
+- Well, I let you here my email: daviduseche09@gmail.com
+- You can find me on [LinkedIn](https://www.linkedin.com/in/david-useche-rosas-843044262) too. Thanks for visiting my profile! Feel free to say hello! 🚀
 - Oh, I speak two languages both english and spanish, and currently learning french, so... if you wanted to know hehehe.
 
 ### Languages I'm best at:
