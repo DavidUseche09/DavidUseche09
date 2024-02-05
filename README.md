@@ -25,7 +25,7 @@ My aim is to constantly grow as a developer, contribute significantly to innovat
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JacktheRipper0911&show_icons=true&theme=transparent#gh-dark-mode-only)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidUseche09&show_icons=true&theme=transparent#gh-dark-mode-only)
 
 ![](https://komarev.com/ghpvc/?username=JacktheRipper0911&color=grey&style=flat-square)
 <!---
