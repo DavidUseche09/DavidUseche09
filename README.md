@@ -27,7 +27,7 @@ My aim is to constantly grow as a developer, contribute significantly to innovat
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidUseche09&show_icons=true&theme=transparent#gh-dark-mode-only)
 
-![](https://komarev.com/ghpvc/?username=JacktheRipper0911&color=grey&style=flat-square)
+![](https://komarev.com/ghpvc/?username=DavidUseche09&color=grey&style=flat-square)
 <!---
 JacktheRipper0911/JacktheRipper0911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
